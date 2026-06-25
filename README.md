@@ -24,9 +24,9 @@ A telecom company loses revenue every time a customer churns. If we can predict 
 ```
 customer-churn-prediction/
 ├── Codes/
-|   ├── 01_explore_and_clean.py
-|   ├── 02_visualize.py
-|   └── 03_train_models.py
+|   ├── 01_explore_and_clean.ipynb
+|   ├── 02_visualize.ipynb
+|   └── 03_train_models.ipynb
 ├── data/
 │   ├── telco_churn.csv              # raw dataset
 │   └── telco_churn_clean.csv        # cleaned version 
